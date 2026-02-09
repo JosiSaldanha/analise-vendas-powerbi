@@ -5,7 +5,8 @@ Este repositório foi criado para demonstrar minhas habilidades em análise de d
 ## 🖼️ Visualização do Dashboard
 Aqui está o resultado final do painel:
 
-![Preview do Dashboard](painel.png.png)
+![Dashboard]<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2ef423af-eed4-4789-9916-1b543999b02a" />
+
 
 ## 🛠️ Tecnologias Utilizadas
 * **Power BI**: Para criação dos visuais.
